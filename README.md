@@ -4,7 +4,7 @@ Comprehensive Python Cheatsheet
 </sup>
 
 ![Monty Python](web/image_888.jpeg)
-Maybe i shouldn't write anything there...
+I want to add some info here
 
 Contents
 --------
@@ -23,7 +23,6 @@ Main
 ```
 python
 if __name__ == '__main__':      # Runs main() if file was not imported.
-    main()
 ```
 
 
