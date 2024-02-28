@@ -4,7 +4,7 @@ Comprehensive Python Cheatsheet
 </sup>
 
 ![Monty Python](web/image_888.jpeg)
-I want to add some info here
+I want to add some info here1
 
 Contents
 --------
