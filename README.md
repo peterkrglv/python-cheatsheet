@@ -20,10 +20,10 @@ Contents
 
 Main
 ----
-```python
+"""python
 if __name__ == '__main__':      # Runs main() if file wan't imported.
     main()
-```
+"""
 
 
 List
